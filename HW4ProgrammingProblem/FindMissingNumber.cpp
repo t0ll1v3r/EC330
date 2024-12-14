@@ -4,7 +4,7 @@ The algorithm works by analyzing each bit of the numbers in the array and compar
 The missing number is reconstructed by checking discrepancies bit by bit. Overall runtime is Θ(nlog(n)) since each number is checked bit by bit.
 */
 
-#include "InputArray.h"
+#include "GivenFiles/InputArray.h"
 #include <iostream>
 
 int FindMissingNumber(InputArray& arr) {
