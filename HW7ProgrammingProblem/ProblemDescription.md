@@ -8,7 +8,7 @@ For example, given the following input maze, the shortest path is along the bold
 1 **1 1 1** 0<br>
 1 1 0 **1 1**<br>
 
-You are provided with an input file called maze.txt containing a maze. Your program should:
+You are provided with an input file called `maze.txt` containing a maze. Your program should:
 - Accept the file name as a command-line argument.
 - Read the maze from the file and determine N, the dimension of the maze.
 - Output the length of the shortest path to the screen.
