@@ -15,7 +15,7 @@ Your main function should:
 
 #### Example Usage
 Suppose you compile your program to an executable named mergeProgram and you have two input files named words1.txt and words2.txt. The program should be run as follows:
-`./mergeProgram words1.txt words2.txt`
+`./mergeProgram Inputs/words1.txt Inputs/words2.txt`
 
 
 If `words1.txt` contains:
