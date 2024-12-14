@@ -1,6 +1,6 @@
 ### For Readers
 
-`SubstringFrequencyAnalyzer.cpp` is the program I created. To run the program, save the file to your device. Open a terminal in the folder where you saved the file, and run the following command to compile the program (Note that "analyzeProgram" is the name of the executable file, feel free to choose any name): `g++ -o analyzeProgram SubstringFrequencyAnalyzer.cpp`. Then, execute the program with the following command, passing a string and a size as command-line arguments: `./analyzeProgram "your_string_here" size`
+`SubstringAnalyzer.cpp` is the program I created. To run the program, save the file to your device. Open a terminal in the folder where you saved the file, and run the following command to compile the program (Note that "analyzeProgram" is the name of the executable file, feel free to choose any name): `g++ -o analyzeProgram SubstringAnalyzer.cpp`. Then, execute the program with the following command, passing a string and a size as command-line arguments: `./analyzeProgram "your_string_here" size`
 
 For example, to analyze the string "aaaargh" with a size of 1, run:
 `./analyzeProgram "aaaargh" 1`
