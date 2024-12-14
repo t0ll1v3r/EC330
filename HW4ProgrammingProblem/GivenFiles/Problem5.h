@@ -3,6 +3,6 @@
 
 #include "InputArray.h"
 
-int Problem5(InputArray &input);
+int FindMissingNumber(InputArray &input);
 
 #endif
