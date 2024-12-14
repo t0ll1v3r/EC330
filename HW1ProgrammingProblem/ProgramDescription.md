@@ -15,29 +15,31 @@ Your main function should:
 
 #### Example Usage
 Suppose you compile your program to an executable named mergeProgram and you have two input files named words1.txt and words2.txt. The program should be run as follows:
-./mergeProgram words1.txt words2.txt
-If words1.txt contains:<br>
-``cpp
-alphabetical<br>
-file<br>
-input<br>
-names<br>
-``
-And words2.txt contains:<br>
-```cpp
-containing<br>
-function<br>
-of<br>
-words<br>
+`./mergeProgram words1.txt words2.txt`
+
+
+If `words1.txt` contains:
 ```
-The program will create an output file output.txt with the following content:<br>
-``cpp
-alphabetical<br>
-containing<br>
-file<br>
-function<br>
-input<br>
-names<br>
-of<br>
-words<br>
-``
+alphabetical  
+file  
+input  
+names
+```
+And `words2.txt` contains:
+```
+containing  
+function  
+of  
+words
+```
+The program will create an output file output.txt with the following content:
+```
+alphabetical  
+containing  
+file  
+function  
+input  
+names  
+of  
+words
+```
