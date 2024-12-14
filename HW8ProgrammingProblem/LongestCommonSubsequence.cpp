@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include "LongestCommonSubsequence.h"
+#include "GivenFiles/LongestCommonSubsequence.h"
 
 using namespace std;
 
