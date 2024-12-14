@@ -1,7 +1,3 @@
-//
-//  Problem5.h
-//  ec330_hw8
-//
 #include <iostream>
 #include <string>
 using namespace std;
