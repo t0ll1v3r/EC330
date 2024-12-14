@@ -1,3 +1,5 @@
+// Note that this is the same program I used in my MazeSolverAndGenerator repository.
+
 #include <iostream>
 #include <fstream>
 #include <vector>
