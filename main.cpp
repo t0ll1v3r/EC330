@@ -1,9 +1,4 @@
-//
-//  main.cpp
-//  find maximum subsequence
-//
-
-#include "Problem5.h"
+#include "LongestCommonSubsequence.h"
 
 using namespace std;
 
