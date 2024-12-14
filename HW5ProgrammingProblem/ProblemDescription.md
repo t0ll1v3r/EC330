@@ -1,7 +1,7 @@
 You are provided with the declaration of a Binary Search Tree (BST) in `BST.h`. It contains a `BSTNode` struct and a `BST` class. The binary search tree you will implement includes a method that detects whether it is balanced or not. A balanced tree is a tree where, for any given node, the heights of its left and right subtrees differ by at most one. This method could potentially be used to extend the tree to an AVL tree or a Red-Black tree, with methods to balance an unbalanced tree.
 
 ### Tasks
-Implement the `BST` class, which should contain the following methods and members:
+Implement the `BST` class (in `BST.cpp`), which should contain the following methods and members:
 
 - **`root`**: Pointer to the root of the binary search tree.
 - **`CreateNode(int data)`**: Creates and returns a new node with the provided data value.
