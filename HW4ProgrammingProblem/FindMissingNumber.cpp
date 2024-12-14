@@ -1,8 +1,8 @@
 
 /*
-Algorithm finds the missing number in an array with numbers 0 to n with one missing.
+This algorithm finds the missing number in an array with numbers 0 to n with one missing.
 The algorithm works by analyzing each bit of the numbers in the array and comparing it with the expected number of 1's at each bit position.
-The missing number is reconstructed by checking discrepancies bit by bit. Overall runtime is Θ(n) since each number is checked bit by bit.
+The missing number is reconstructed by checking discrepancies bit by bit. Overall runtime is Θ(nlog(n)) since each number is checked bit by bit.
 */
 
 #include "InputArray.h"
