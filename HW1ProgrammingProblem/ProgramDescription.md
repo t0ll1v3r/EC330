@@ -24,12 +24,12 @@ input<br>
 names<br>
 ``
 And words2.txt contains:<br>
-``cpp
+```cpp
 containing<br>
 function<br>
 of<br>
 words<br>
-``
+```
 The program will create an output file output.txt with the following content:<br>
 ``cpp
 alphabetical<br>
