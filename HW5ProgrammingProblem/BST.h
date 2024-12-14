@@ -3,7 +3,6 @@
 //    BST
 //
 //    Copyright © Tali Moreshet. All rights reserved.
-//    Boston University
 //
 //    This is an implementation of a binary search tree.
 
