@@ -37,7 +37,7 @@ void MergeFiles(string file1, string file2)
     vector<string> words1 = FiletoVec(file1);
     vector<string> words2 = FiletoVec(file2);
 
-    ofstream out("output.txt");
+    ofstream out("Outputs/output.txt");
 
     if (!out.is_open())
       {
