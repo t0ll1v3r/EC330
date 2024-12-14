@@ -1,6 +1,6 @@
 ### For Readers
 
-`Problem5.cpp` is the program I created. To run the program, save the files to your device. Open a terminal in the folder where you saved the files, and run the following command to compile the program (Note that "mazeSolver" is the name of the executable file, feel free to choose any name): `g++ -o mazeSolver MazeShortestPath.cpp` Then, execute the program with the following command, passing the maze input file as an argument: `./mazeSolver GivenFiles/maze.txt` This will run the program using maze.txt as the input file. Make sure maze.txt is in the same directory as the compiled program or provide the correct file path.
+`Problem5.cpp` is the program I created. To run the program, save the files to your device. Open a terminal in the folder where you saved the files, and run the following command to compile the program (Note that "mazeSolver" is the name of the executable file, feel free to choose any name): `g++ -o mazeSolver MazeShortestPath.cpp` Then, execute the program with the following command, passing the maze input file as an argument (using the given example maze text file): `./mazeSolver GivenFiles/maze.txt` This will run the program using maze.txt as the input file. Make sure maze.txt is in the same directory as the compiled program or provide the correct file path.
 
 The assignment description is as follows...
 
