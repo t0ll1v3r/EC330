@@ -1,5 +1,5 @@
-#ifndef Problem5_h
-#define Problem5_h
+#ifndef FindMissingNumber_h
+#define FindMissingNumber_h
 
 #include "InputArray.h"
 
