@@ -1,4 +1,4 @@
-#include "BST.h"
+#include "GivenFiles/BST.h"
 
 // creates then returns a new BSTNode
 BSTNode* BST::CreateNode(int data) {
