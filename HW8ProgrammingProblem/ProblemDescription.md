@@ -1,6 +1,6 @@
 ### For Readers
 
-`Problem5.cpp` is the program I created. To run the program, save the files to your device. Open a terminal in the folder where you saved the files, and run the following command to compile the program (Note that "lcsProgram" is the name of the executable file, feel free to choose any name): `g++ -o lcsProgram main.cpp LongestCommonSubsequence.cpp` Then, execute the program with the following command: `./lcsProgram` This will run the program, which uses the example inputs from main.cpp to test the Longest Common Subsequence (LCS) algorithm. If you want to test it with different strings, you can modify the strings inside main.cpp or create a new main function to provide input dynamically.
+`LongestCommonSubsequence.cpp` is the program I created. To run the program, save the files to your device. Open a terminal in the folder where you saved the files, and run the following command to compile the program (Note that "lcsProgram" is the name of the executable file, feel free to choose any name): `g++ -o lcsProgram main.cpp LongestCommonSubsequence.cpp` Then, execute the program with the following command: `./lcsProgram` This will run the program, which uses the example inputs from main.cpp to test the Longest Common Subsequence (LCS) algorithm. If you want to test it with different strings, you can modify the strings inside main.cpp or create a new main function to provide input dynamically.
 
 The assignment description is as follows...
 
